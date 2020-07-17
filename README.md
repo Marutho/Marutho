@@ -10,4 +10,6 @@ Hi im Javi and i make things! Hi im Javi and i make things! Mostly videogames an
 
 - 📫 How to reach me: 🐤 [@MaruView](twitter.com/MaruView) 📧 marutho97@gmail.com
 
+- 🧊 Feel free to ask anything, i love feedback
+
 - 🎮 Some stuff ive made:
