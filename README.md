@@ -1,1 +1,9 @@
-### Hi there 👋<!--**Marutho/Marutho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.Here are some ideas to get you started:- 🔭 I’m currently working on ...- 🌱 I’m currently learning ...- 👯 I’m looking to collaborate on ...- 🤔 I’m looking for help with ...- 💬 Ask me about ...- 📫 How to reach me: ...- 😄 Pronouns: ...- ⚡ Fun fact: ...-->
+### Buenas amigos!👋🌮 
+
+Hi im Javi and i make things! Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
+
+- 🔭 I’m currently studyng videogames development and computer engineering
+- 😄 Interests: Videogames, Manga, Music and Aesthetics 👩‍💻
+- 📫 How to reach me: 🐤 [@MaruView](twitter.com/MaruView) 📧 marutho97@gmail.com
+
+- 🎮 Some stuff ive made:
