@@ -1,6 +1,6 @@
 ### Hola amigos!👋🌮 
 
-Hi im Javi and i make things! Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
+Hi im 🧊 Javi 🧊 and i make things! Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
 - 🔭 I’m currently studyng videogames development and computer engineering
 
@@ -9,7 +9,5 @@ Hi im Javi and i make things! Hi im Javi and i make things! Mostly videogames an
 - 😄 Interests: Videogames, Manga, Music and Aesthetics 👩‍💻
 
 - 📫 How to reach me: 🐤 [@MaruView](twitter.com/MaruView) 📧 marutho97@gmail.com
-
-- 🧊 Feel free to ask anything, i love feedback
 
 - 🎮 Some stuff ive made:
