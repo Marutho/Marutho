@@ -12,4 +12,5 @@ Hi im Javi and i make things! Hi im Javi and i make things! Mostly videogames an
 
 - 🎮 Some stuff ive made:
 
-![VenusMuseum](https://github.com/Marutho/Marutho/blob/master/Venus.png) 
+![VenusMuseum](https://github.com/Marutho/Marutho/blob/master/Venus.png) ![Axe](https://github.com/Marutho/Marutho/blob/master/Axe.png)
+ 
