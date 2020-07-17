@@ -6,7 +6,7 @@ Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
 - 🧩 Despite programming, what I really like to do in video games is game / level design
 
-- 😄 Interests: Videogames, Manga, Music and Aesthetics 👨‍💻🏝
+- 😄 Interests: Videogames, Manga, Music and Aesthetics 👨‍💻
 
 - 📫 How to reach me: 🐤 [@MaruView](twitter.com/MaruView) 📧 marutho97@gmail.com
 
