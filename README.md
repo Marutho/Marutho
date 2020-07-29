@@ -8,7 +8,7 @@ Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
 - 😄 Interests: Videogames, Manga, Music and Aesthetics 👨‍💻
 
-- 📫 How to reach me: 🐤 [@MaruView](twitter.com/MaruView) 📧 marutho97@gmail.com
+- 📫 How to reach me: 🐤 📧 marutho97@gmail.com
 
 - 🎮 Some stuff ive made:
 
