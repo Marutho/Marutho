@@ -2,11 +2,11 @@
 
 Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
-- 🔭 I’m currently studyng videogames development and computer engineering
+- 🔭 I’m currently studyng videogames/software development and computer engineering
 
-- 🧩 Despite programming, what I really like to do in video games is game / level design
+- 🧩 Despite programming, here I usually upload open source video game code as a hobby
 
-- 😄 Interests: Videogames, Manga, Music and Aesthetics 👨‍💻
+- 😄 Interests: Videogames, Technology, Manga, Music and Aesthetics 👨‍💻
 
 - 📫 How to reach me: 🐤 📧 marutho97@gmail.com
 
