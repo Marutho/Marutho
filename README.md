@@ -2,7 +2,7 @@
 
 Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
-- 🔭 I’m currently studyng videogames/software development and computer engineering
+- 🔭 I’m currently studyng videogames/software development and a recent computer engineer
 
 - 🧩 Despite programming, here I usually upload open source video game code as a hobby
 
