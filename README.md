@@ -2,7 +2,9 @@
 
 Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
-- 🔭 I am currently working as a technical designer at TLR Games! I have a degree in computer science and a degree in video game design and development.
+- 🔭 I am currently working as a technical designer at TLR Games! 
+
+- 👨‍🎓 I have a degree in computer science and a degree in video game design and development
 
 - 🧩 Despite programming, here I usually upload open source video game code as a hobby
 
