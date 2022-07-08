@@ -2,7 +2,7 @@
 
 Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
-- 🔭 I am currently working as a technical designer at TLR Games! 
+- 🔭 I am currently working as a Backend developer at ADIDAS! 
 
 - 👨‍🎓 I have a degree in computer science and a degree in video game design and development
 
