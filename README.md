@@ -6,7 +6,7 @@ Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
 - 👨‍🎓 I have a degree in computer science and a degree in video game design and development
 
-- 🧩 Despite programming, here I usually upload open source video game code as a hobby
+- 🧩 Despite programming, here I usually upload open source video game code / mechanics as a hobby
 
 - 😄 Interests: Videogames, Technology, Manga, Music and Aesthetics 👨‍💻
 
