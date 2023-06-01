@@ -2,7 +2,7 @@
 
 Hi im Javi and i make things! Mostly videogames and sometimes software stuff💖
 
-- Co-director, gamedev-designer of [IDEA](https://store.steampowered.com/app/1873870/IDEA/), developer of tools for [Toy Tactics](https://store.steampowered.com/app/1772530/Toy_Tactics/) and also i was tester in [Yuppie Psycho](https://store.steampowered.com/app/597760/Yuppie_Psycho_Executive_Edition/)
+- 🎮  Co-director, gamedev-designer of [IDEA](https://store.steampowered.com/app/1873870/IDEA/), developer of tools for [Toy Tactics](https://store.steampowered.com/app/1772530/Toy_Tactics/) and also i was tester in [Yuppie Psycho](https://store.steampowered.com/app/597760/Yuppie_Psycho_Executive_Edition/)
 
 - 🔭 I am currently working as a Backend developer at ADIDAS!
 
